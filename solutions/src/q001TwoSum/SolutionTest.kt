@@ -1,4 +1,4 @@
-package twoSum
+package q001TwoSum
 
 import org.junit.jupiter.api.Assertions.*
 

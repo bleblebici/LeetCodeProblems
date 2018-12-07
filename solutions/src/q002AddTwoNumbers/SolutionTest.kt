@@ -1,4 +1,4 @@
-package addTwoNumbers
+package q002AddTwoNumbers
 
 import org.junit.jupiter.api.Assertions.*
 
